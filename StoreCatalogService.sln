@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreCatalogService.Api", "StoreCatalogService.Api\StoreCatalogService.Api.csproj", "{EB4E0441-0B97-4C80-BE45-2C6BD3E4ADBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreCatalogService.Helpers", "StoreCatalogService.Helpers\StoreCatalogService.Helpers.csproj", "{864A22C3-8FAD-44B4-AADC-0DA177EA842E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreCatalogService.Dto", "StoreCatalogService.Dto\StoreCatalogService.Dto.csproj", "{C83EBEE0-122D-43BF-B22C-E7CC54DD38BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4E0441-0B97-4C80-BE45-2C6BD3E4ADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4E0441-0B97-4C80-BE45-2C6BD3E4ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4E0441-0B97-4C80-BE45-2C6BD3E4ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4E0441-0B97-4C80-BE45-2C6BD3E4ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864A22C3-8FAD-44B4-AADC-0DA177EA842E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864A22C3-8FAD-44B4-AADC-0DA177EA842E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864A22C3-8FAD-44B4-AADC-0DA177EA842E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864A22C3-8FAD-44B4-AADC-0DA177EA842E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83EBEE0-122D-43BF-B22C-E7CC54DD38BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83EBEE0-122D-43BF-B22C-E7CC54DD38BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83EBEE0-122D-43BF-B22C-E7CC54DD38BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83EBEE0-122D-43BF-B22C-E7CC54DD38BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
